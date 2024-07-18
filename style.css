@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #666;
+  background-color: #666666;
   color: white;
   padding: 20px;
 }
@@ -51,15 +51,17 @@ div h3 {
 }
 
 ul {
-  list-style-type: none;
+  list-style-type: disc;
   padding: 0;
   margin: 0 auto;
   text-align: left;
 }
 
 ul li {
+  text-align: left;
   font-size: 1.2em;
-  margin: 10px 0;
+  margin: 10px auto;
+  max-width: 600px;
 }
 
 blockquote {
