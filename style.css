@@ -41,9 +41,13 @@ figure figcaption {
   color: #666;
 }
 
+div {
+  margin-top: 20px;
+}
 
-
-
+div h3 {
+  font-size: 2em;
+}
 
 ul {
   list-style-type: none;
